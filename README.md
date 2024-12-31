@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @YEPPRO
+- 👋 Hi, I’m @YEP
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
